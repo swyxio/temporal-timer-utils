@@ -8,7 +8,7 @@ This is a demo library built with [Temporal's TypeScript SDK](https://temporal.i
 ## Installation
 
 ```bash
-npm i temporal-timer utils
+npm i temporal-timer-utils
 ```
 
 ## Usage
